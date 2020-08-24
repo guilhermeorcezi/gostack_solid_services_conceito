@@ -1,5 +1,5 @@
 
-<p align="center"> 🚀 Conceitos backend NodeJS sobre SOLID e services
+<p align="center"> 🚀 NodeJS backend - SOLID & services concepts
  </p>
  
 # :pushpin: Table of Contents
